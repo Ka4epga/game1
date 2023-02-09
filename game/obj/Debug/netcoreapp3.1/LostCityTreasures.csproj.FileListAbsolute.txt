@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\game\game\obj\Debug\netcoreapp3.1\LostCityTreasures.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\game\game\obj\Debug\netcoreapp3.1\LostCityTreasures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\game\game\obj\Debug\netcoreapp3.1\LostCityTreasures.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\game\game\obj\Debug\netcoreapp3.1\LostCityTreasures.AssemblyInfo.cs
+C:\Users\User\source\repos\game\game\obj\Debug\netcoreapp3.1\LostCityTreasures.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\game\game\bin\Debug\netcoreapp3.1\LostCityTreasures.exe
+C:\Users\User\source\repos\game\game\bin\Debug\netcoreapp3.1\LostCityTreasures.deps.json
+C:\Users\User\source\repos\game\game\bin\Debug\netcoreapp3.1\LostCityTreasures.runtimeconfig.json
+C:\Users\User\source\repos\game\game\bin\Debug\netcoreapp3.1\LostCityTreasures.runtimeconfig.dev.json
+C:\Users\User\source\repos\game\game\bin\Debug\netcoreapp3.1\LostCityTreasures.dll
+C:\Users\User\source\repos\game\game\bin\Debug\netcoreapp3.1\LostCityTreasures.pdb
+C:\Users\User\source\repos\game\game\obj\Debug\netcoreapp3.1\LostCityTreasures.dll
+C:\Users\User\source\repos\game\game\obj\Debug\netcoreapp3.1\LostCityTreasures.pdb
+C:\Users\User\source\repos\game\game\obj\Debug\netcoreapp3.1\LostCityTreasures.genruntimeconfig.cache
